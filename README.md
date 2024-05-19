@@ -1,2 +1,6 @@
-# students-fees-management-laravel
-Fees management system using laravel
+
+# FMS - Fees Management System
+## Laravel Fees Management
+
+A laravel project to Manage students fees.
+
